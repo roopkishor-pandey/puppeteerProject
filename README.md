@@ -1,4 +1,4 @@
->>>>>>>scraping code has been written in index.ts file inside the folder pup-script
+>>>>>>>scraping code has been written in index.ts file inside the folder pup-script in the master branch
 
 >>>>>>>Note : Amazon e commerce website is used to scrape the order history details.
 in index.ts file update the username and password of amazon account at line number 10 and 13.
